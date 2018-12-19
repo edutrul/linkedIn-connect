@@ -1,0 +1,25 @@
+{
+  "name": "LinkedinConnect",
+  "version": "0.0.2",
+  "manifest_version": 2,
+  "description": "Linkedin Connect",
+  "homepage_url": "https://www.linkedin.com/mynetwork/",
+  "background": {
+    "scripts": [
+      "thirdParty/jquery.js",
+      "background.js"
+    ],
+    "persistent": true
+  },
+  "browser_action": {
+    "default_title": "Linkedin connect!"
+  },
+  "icons": {
+    "16": "icon.png",
+    "48": "icon.png",
+    "128": "icon.png"
+  },
+  "permissions": [
+    "https://www.linkedin.com/mynetwork/"
+  ]
+}
