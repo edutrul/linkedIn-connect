@@ -1,7 +1,7 @@
 {
   "name": "Linkedin Connect",
   "short_name": "Linkedin Connect people",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "manifest_version": 2,
   "description": "Linkedin Connect",
   "homepage_url": "https://www.linkedin.com/mynetwork/",
