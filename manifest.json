@@ -1,5 +1,6 @@
 {
-  "name": "LinkedinConnect",
+  "name": "Linkedin Connect",
+  "short_name": "Linkedin Connect people",
   "version": "0.0.2",
   "manifest_version": 2,
   "description": "Linkedin Connect",
